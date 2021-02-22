@@ -1,0 +1,1 @@
+java -jar /F/ZhaoZhe/github/ssh_terminal/target/terminal.jar
